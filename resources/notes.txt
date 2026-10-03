@@ -1,1 +1,4 @@
-Altera 1.14
+Sources:
+- Altera
+- Uber Default
+- Water Era
